@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Tabs({ activeTab, onTabChange }) {
     return (
         <div className="tabs">
@@ -26,6 +24,12 @@ function Tabs({ activeTab, onTabChange }) {
                 onClick={() => onTabChange(4)}
             >
                 Our Team
+            </button>
+            <button 
+                className={`tab-button ${activeTab === 5 ? 'active' : ''}`} 
+                onClick={() => onTabChange(5)}
+            >
+                Manual Control
             </button>
         </div>
     );
