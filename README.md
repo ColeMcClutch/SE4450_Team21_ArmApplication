@@ -1,3 +1,31 @@
+# 🤖 Smart AssistArm Robotic Arm Control Platform
+
+## 📝 Description
+
+This project showcases a low-cost robotic arm platform developed to support education and prototyping in robotics and automation. The system integrates 3D-printed hardware, AI-based computer vision, and an open-source React application to control and monitor the robotic arm. Designed for accessibility and flexibility, the platform serves students, hobbyists, and entrepreneurs interested in learning or extending robotic capabilities affordably.
+
+Core components include:
+- 3D-printed arm structure using Fusion 360
+- Electronically actuated joints
+- AI-powered computer vision with OpenCV and YOLO
+- Web-based manual control interface built with React
+
+The project embodies a "research-grade yet affordable" philosophy, emphasizing open access and modular extensibility.
+
+---
+
+## 🎥 Project Demo Video
+Watch the live demo showcasing the robotic arm in action:  
+▶️ [Google Drive Video](https://drive.google.com/file/d/1jgR8zSgqpzGrISdxVeEoDlNJX26XQNnH/view)
+
+---
+
+## 📊 Final Presentation
+Explore the team presentation that summarizes our architecture, challenges, and future plans:  
+🖥️ [Google Slides](https://docs.google.com/presentation/d/1_L-uLpnU9Pk3hGNSWyS8PbCC0nOMO7CRVKqTTLCTSQw/edit?slide=id.p#slide=id.p)
+
+---
+
 # Project Setup Guide
 
 ## Repository Setup
